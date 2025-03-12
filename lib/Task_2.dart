@@ -6,8 +6,7 @@ void triplePrint(String text) {
 }
 
 void main() {
-  // Aufrufe der Funktion mit verschiedenen Werten
-  triplePrint("Hallo, Welt!");
-  triplePrint("Dart ist cool!");
-  triplePrint("Funktion erfolgreich aufgerufen!");
+  triplePrint("Was geht ab");
+  triplePrint("Irgendein belangloser Satz!");
+  triplePrint("Es geht mir gut!");
 }
